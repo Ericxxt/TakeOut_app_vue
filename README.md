@@ -1,6 +1,7 @@
-# sell_app
+# TakeOut_app
 
-> a vue app
+TakeOut application built an app that people could order their meal through this platform
+> a web application based on Vue. 
 
 ## Build Setup
 
